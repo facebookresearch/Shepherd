@@ -6,6 +6,7 @@
 
 
 ### License
+The data is under CC-BY-NC license.
 
 ### Citation
 
