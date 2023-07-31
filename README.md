@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="images/overview_1.pdf" style="width: 30%; min-width: 200px; display: block; margin: auto;"></a>
+<img src="images/overview_1.pdf" alt="show" style="zoom:90%;" />
 </p>
 
 # Shepherd: A Critic for Language Model Generation
