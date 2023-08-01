@@ -1,8 +1,11 @@
 # Shepherd: A Critic for Language Model Generation
 
+Tianlu Wang*, Ping Yu*, Xiaoqing Ellen Tan<sup>+</sup>, Sean O'Brien, Ram Pasunuru, Jane Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz
+
+#### TL;DR: We introduce Shepherd, a language model specifically tuned to critique model responses and suggest refinements, extending beyond the capabilities of an untuned model to identify diverse errors and provide suggestions to remedy them.
 <img src="images/overview.png" alt="show" style="zoom:90%;" /> 
 
-## Data collected from Human
+## Human annotated feedback
 
 #### Error types for human data collection.
 
@@ -36,7 +39,7 @@ DeFacto | 29
 
 
 #### Download data
-We inlcudes raw data we collect from Moravia and data we processed for model training. 
+We inlcudes [raw data](./data) we collect from Moravia and data we processed for model training. 
 
 
 ## License
