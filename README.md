@@ -39,7 +39,7 @@ DeFacto | 29
 
 
 #### Download data
-We inlcudes [raw data](./data) we collect from Moravia and data we processed for model training. 
+We inlcudes [raw data](./data) we collect from Moravia and data we processed for model training. We includes the [data process script](./notebook) we used.
 
 
 ## License
