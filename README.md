@@ -50,10 +50,12 @@ The data is under [CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by
 Please cite our paper if Shepherd contributes in your work:
 
 ```bibtex 
-@inproceedings{wang2023shepherd,  
-    title={Shepherd: A Critic for Language Model Generation},  
-    author={Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ram Pasunuru, Jane Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz},  
-    journal={arXiv preprint arXiv:xxxx.xxxxx},  
-    year={2023}  
+@misc{wang2023shepherd,
+      title={Shepherd: A Critic for Language Model Generation}, 
+      author={Tianlu Wang and Ping Yu and Xiaoqing Ellen Tan and Sean O'Brien and Ramakanth Pasunuru and Jane Dwivedi-Yu and Olga Golovneva and Luke Zettlemoyer and Maryam Fazel-Zarandi and Asli Celikyilmaz},
+      year={2023},
+      eprint={2308.04592},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
